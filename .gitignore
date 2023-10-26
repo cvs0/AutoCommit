@@ -1,0 +1,4 @@
+# Ignore access token file
+access_token.txt
+
+# Add other patterns as needed
