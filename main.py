@@ -24,4 +24,4 @@ while True:
 
     print(f'Committed: {commit_message}')
 
-    time.sleep(5)
+    time.sleep(2)
